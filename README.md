@@ -54,10 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the API used in this app.
 
-## Connect with Me
-
-For more projects and information, check out my [Linktree](https://linktr.ee/Keshabkjha).
-
----
-
-Developed by [Keshab Kumar](https://github.com/Keshabkjha).
+## Connect with me
+https://www.linkedin.com/in/pandey-udit-narayan/
